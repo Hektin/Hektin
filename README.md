@@ -1,28 +1,11 @@
 <p align="center">
-  <img src="assets/banner.png" alt="HEKTIN — Indie Developer" width="100%" />
+  <img src="assets/banner.png" alt="HEKTIN" width="100%" />
 </p>
 
-### Merhaba, ben **Hektin**
+I ship my own software—games, tools, whatever needs building next. Minecraft modding is one thread of that work, not the whole picture; this profile will collect whatever goes public.
 
-Indie developer olarak oyun ve araç geliştirmeyi seviyorum. Şu an **Minecraft Fabric** ekosisteminde modlar üretiyorum; performans ve kullanılabilirlik benim için önemli.
+**Live repo:** [**HekHelper**](https://github.com/Hektin/hekhelper) — Fabric client mod (HUD, radars, helpers), currently in beta.
 
----
+Stack I touch often: Java, Gradle, Git. More stacks as projects demand.
 
-### Öne çıkan proje
-
-| Proje | Açıklama |
-|--------|----------|
-| [**HekHelper**](https://github.com/Hektin/hekhelper) | Fabric istemci modu: HUD, radarlar ve yardımcı araçlar *(beta)* |
-
----
-
-### Teknolojiler
-
-`Java` · `Gradle` · `Fabric` · Git
-
----
-
-### İletişim
-
-- GitHub: [**@Hektin**](https://github.com/Hektin)
-
+[**@Hektin**](https://github.com/Hektin)
